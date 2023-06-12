@@ -2,7 +2,7 @@
   "$schema": "vscode://schemas/color-theme",
   "type": "dark",
   "colors": {
-    "activityBar.background": "#003847",
+    "activityBar.background": "#293e55", // 10% lighter than bg
     "badge.background": "#047aa6",
     "button.background": "#2aa19899",
     "debugExceptionWidget.background": "#00212b",
