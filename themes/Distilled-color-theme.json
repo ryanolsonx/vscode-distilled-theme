@@ -697,8 +697,7 @@
     {
       "scope": ["comment", "string.quoted.docstring"],
       "settings": {
-        "foreground": "#586E75",
-        "fontStyle": "italic"
+        "foreground": "#6194ba"
       }
     },
     {
