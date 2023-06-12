@@ -2,12 +2,19 @@
   "name": "distilled",
   "displayName": "Distilled",
   "description": "dark theme with no code syntax highlighting",
-  "version": "0.1.0",
+  "publisher": "ryanolsonx",
+  "license": "MIT",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.54.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "syntax off",
+    "no syntax highlighting",
+    "dark"
   ],
   "contributes": {
     "themes": [
