@@ -13,7 +13,7 @@
     "editor.background": "#24364b",
     "editor.foreground": "#e4e4dd",
     "editor.lineHighlightBackground": "#6194ba", // TODO: refine
-    "editor.selectionBackground": "#274642",
+    "editor.selectionBackground": "#e4e4dd22",
     "editor.selectionHighlightBackground": "#005a6faa",
     "editor.wordHighlightBackground": "#004454aa",
     "editor.wordHighlightStrongBackground": "#005a6faa",
@@ -596,7 +596,7 @@
     //"editor.findMatchHighlightBorder": null,
     //"editor.findRangeHighlightBorder": null,
     //"editor.rangeHighlightBorder": null,
-    //"editor.selectionForeground": null,
+    //"editor.selectionForeground": "#ff0000"
     //"editor.selectionHighlightBorder": null,
     //"editor.snippetFinalTabstopHighlightBackground": null,
     //"editor.snippetTabstopHighlightBorder": null,
