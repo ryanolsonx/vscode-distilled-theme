@@ -1,0 +1,21 @@
+{
+  "name": "distilled",
+  "displayName": "Distilled",
+  "description": "dark theme with no code syntax highlighting",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Distilled",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Distilled-color-theme.json"
+      }
+    ]
+  }
+}
