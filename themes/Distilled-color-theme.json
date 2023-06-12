@@ -2,7 +2,7 @@
   "$schema": "vscode://schemas/color-theme",
   "type": "dark",
   "colors": {
-    "activityBar.background": "#293e55", // 10% lighter than bg
+    "activityBar.background": "#293e55", // lighter than bg
     "badge.background": "#047aa6",
     "button.background": "#2aa19899",
     "debugExceptionWidget.background": "#293e55",
@@ -23,8 +23,8 @@
     "editorCursor.foreground": "#e4e4dd",
     "editorGroup.border": "#293e55",
     "editorGroup.dropBackground": "#2aa19844",
-    "editorGroupHeader.tabsBackground": "#004052",
-    "editorHoverWidget.background": "#004052",
+    "editorGroupHeader.tabsBackground": "#293e55",
+    "editorHoverWidget.background": "#293e55",
     "editorIndentGuide.activeBackground": "#c3e1e180",
     "editorIndentGuide.background": "#93a1a180",
     "editorLineNumber.activeForeground": "#6194ba",
@@ -74,7 +74,7 @@
     "tab.activeBackground": "#24364b",
     "tab.activeForeground": "#d6dbdb",
     "tab.border": "#003847",
-    "tab.inactiveBackground": "#004052",
+    "tab.inactiveBackground": "#293e55",
     "tab.inactiveForeground": "#93a1a1",
     "tab.lastPinnedBorder": "#2aa19844",
     "terminal.ansiBlack": "#073642",
@@ -525,7 +525,7 @@
     //"tab.unfocusedActiveBackground": "#002b37",
     //"tab.unfocusedActiveForeground": "#d6dbdb80",
     //"tab.unfocusedActiveModifiedBorder": "#3399cc80",
-    //"tab.unfocusedInactiveBackground": "#004052",
+    //"tab.unfocusedInactiveBackground": "#293e55",
     //"tab.unfocusedInactiveForeground": "#93a1a180",
     //"tab.unfocusedInactiveModifiedBorder": "#3399cc40",
     //"terminal.border": "#2b2b4a",
