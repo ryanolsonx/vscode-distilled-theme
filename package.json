@@ -3,8 +3,9 @@
   "displayName": "Distilled",
   "description": "dark theme with no code syntax highlighting",
   "publisher": "ryanolsonx",
+  "repository": "https://github.com/ryanolsonx/vscode-distilled-theme",
   "license": "MIT",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "engines": {
     "vscode": "^1.54.0"
   },
