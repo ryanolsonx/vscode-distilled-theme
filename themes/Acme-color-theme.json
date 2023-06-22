@@ -1,0 +1,27 @@
+{
+  "name": "Acme",
+  "colors": {
+    "sideBar.background": "#FFFFD7",
+    "list.activeSelectionBackground": "#e1e1bd",
+    "list.activeSelectionForeground": "#000000",
+    "list.inactiveSelectionBackground": "#e1e1bd",
+    "list.inactiveSelectionForeground": "#000000",
+    "editor.selectionBackground": "#ebf19a",
+    "input.background": "#FFFFD7",
+    "input.border": "#b9bd79",
+    "panel.background": "#FFFFD7",
+    "editor.background": "#FFFFD7",
+    "activityBar.background": "#FFFFD7",
+    "activityBar.foreground": "#666666",
+    "activityBarBadge.background": "#888888",
+    "editor.foreground": "#000000",
+    "editorLineNumber.foreground": "#000000",
+    "statusBar.border": "#aaaaaa",
+    "statusBar.background": "#FFFFD7",
+    "statusBar.foreground": "#444444",
+    "tab.inactiveBackground": "#dbdbb8",
+    "editorGroupHeader.tabsBackground": "#dbdbb8",
+    "editorGroupHeader.noTabsBackground": "#dbdbb8"
+  },
+  "tokenColors": []
+}
