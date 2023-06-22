@@ -1,7 +1,7 @@
 {
   "name": "distilled",
-  "displayName": "Distilled",
-  "description": "dark theme with no code syntax highlighting",
+  "displayName": "No Syntax Highlighting",
+  "description": "no code syntax highlighting collection",
   "publisher": "ryanolsonx",
   "repository": "https://github.com/ryanolsonx/vscode-distilled-theme",
   "license": "MIT",
@@ -23,6 +23,11 @@
         "label": "Distilled",
         "uiTheme": "vs-dark",
         "path": "./themes/Distilled-color-theme.json"
+      },
+      {
+        "label": "Skull",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Skull-color-theme.json"
       }
     ]
   }
