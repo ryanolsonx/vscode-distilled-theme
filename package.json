@@ -28,6 +28,11 @@
         "label": "Skull",
         "uiTheme": "vs-dark",
         "path": "./themes/Skull-color-theme.json"
+      },
+      {
+        "label": "Sunbather Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sunbather-dark-color-theme.json"
       }
     ]
   }
