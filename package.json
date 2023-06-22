@@ -5,7 +5,7 @@
   "publisher": "ryanolsonx",
   "repository": "https://github.com/ryanolsonx/vscode-distilled-theme",
   "license": "MIT",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "engines": {
     "vscode": "^1.54.0"
   },
@@ -38,6 +38,11 @@
         "label": "Acme",
         "uiTheme": "vs",
         "path": "./themes/Acme-color-theme.json"
+      },
+      {
+        "label": "Rams",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rams-color-theme.json"
       }
     ]
   }
