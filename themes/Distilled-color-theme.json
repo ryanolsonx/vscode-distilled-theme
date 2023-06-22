@@ -12,7 +12,7 @@
     "dropdown.border": "#2aa19899",
     "editor.background": "#24364b",
     "editor.foreground": "#e4e4dd",
-    "editor.lineHighlightBackground": "#6194ba", // TODO: refine
+    // "editor.lineHighlightBackground": "#6194ba", // TODO: refine
     "editor.selectionBackground": "#e4e4dd22",
     "editor.selectionHighlightBackground": "#005a6faa",
     "editor.wordHighlightBackground": "#004454aa",
