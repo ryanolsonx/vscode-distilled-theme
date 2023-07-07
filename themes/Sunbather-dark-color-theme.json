@@ -151,7 +151,7 @@
   },
   "tokenColors": [
     {
-      "scope": ["variable", "punctuation"],
+      "scope": ["string.template variable", "string.template punctuation"],
       "settings": {
         "foreground": "#C6C6C6"
       }
