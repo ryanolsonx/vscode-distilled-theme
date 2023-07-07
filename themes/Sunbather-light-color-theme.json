@@ -156,6 +156,12 @@
   },
   "tokenColors": [
     {
+      "scope": ["variable", "punctuation"],
+      "settings": {
+        "foreground": "#262626"
+      }
+    },
+    {
       "scope": ["comment", "string.quoted.docstring"],
       "settings": {
         "foreground": "#A8A8A8"
