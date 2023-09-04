@@ -5,10 +5,11 @@
   "publisher": "ryanolsonx",
   "repository": "https://github.com/ryanolsonx/vscode-distilled-theme",
   "license": "MIT",
-  "version": "0.6.2",
+  "version": "0.7.0",
   "engines": {
     "vscode": "^1.54.0"
   },
+  "icon": "icon.png",
   "categories": [
     "Themes"
   ],

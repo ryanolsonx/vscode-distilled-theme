@@ -1,4 +1,4 @@
-# "Distilled" - Theme for Visual Studio Code
+# No Syntax Highlighting for Visual Studio Code
 
 Clears up syntax highlighting to reveal what is important.
 
