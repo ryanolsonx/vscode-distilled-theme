@@ -1,7 +1,7 @@
 {
   "name": "distilled",
   "displayName": "No Syntax Highlighting",
-  "description": "no code syntax highlighting collection",
+  "description": "A collection of themes with no to little syntax highlighting",
   "publisher": "ryanolsonx",
   "repository": "https://github.com/ryanolsonx/vscode-distilled-theme",
   "license": "MIT",
