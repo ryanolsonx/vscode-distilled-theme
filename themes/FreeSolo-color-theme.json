@@ -1,0 +1,29 @@
+{
+  "name": "Free Solo",
+  "colors": {
+    "activityBar.background": "#eeeeee",
+    "activityBar.border": "#0000001a",
+    "activityBar.foreground": "#1f1f1f",
+    "activityBar.inactiveForeground": "#0000009e",
+    "activityBarBadge.background": "#005fb8",
+    "activityBarBadge.foreground": "#ffffff",
+    "activityBar.activeBorder": "#005fb8",
+    "editor.background": "#eeeeee",
+    "editor.findMatchBackground": "#ffff5f",
+    "editor.findMatchHighlightBackground": "#ffd230c4",
+    "editor.foreground": "#222222",
+    "editor.lineHighlightBackground": "#e4e4e4",
+    "editorBracketHighlight.foreground1": "#444444",
+    "editorBracketHighlight.foreground2": "#444444",
+    "editorBracketHighlight.foreground3": "#444444",
+    "editorCursor.foreground": "#005f87",
+    "editorCursor.background": "#eeeeee",
+    "editorLineNumber.activeForeground": "#005f87",
+    "editorLineNumber.foreground": "#bcbcbc",
+    "list.activeSelectionIconForeground": "#fff",
+    "statusBar.background": "#f8f8f8",
+    "statusBar.foreground": "#444444",
+    "statusBar.border": "#0000001a"
+  },
+  "tokenColors": []
+}
