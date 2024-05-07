@@ -2,9 +2,12 @@
   "$schema": "vscode://schemas/color-theme",
   "type": "dark",
   "colors": {},
-  "tokenColors": [],
-  "semanticHighlighting": true,
-  "semanticTokenColors": {
-    "comment": "#6A9955"
-  }
+  "tokenColors": [
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#6A9955"
+      }
+    }
+  ]
 }
