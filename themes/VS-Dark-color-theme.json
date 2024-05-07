@@ -1,0 +1,10 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "type": "dark",
+  "colors": {},
+  "tokenColors": [],
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "comment": "#6A9955"
+  }
+}

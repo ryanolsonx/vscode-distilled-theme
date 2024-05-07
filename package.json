@@ -5,7 +5,7 @@
   "publisher": "ryanolsonx",
   "repository": "https://github.com/ryanolsonx/vscode-distilled-theme",
   "license": "MIT",
-  "version": "0.10.0",
+  "version": "0.11.1",
   "engines": {
     "vscode": "^1.54.0"
   },
@@ -59,6 +59,16 @@
         "label": "Rams",
         "uiTheme": "vs-dark",
         "path": "./themes/Rams-color-theme.json"
+      },
+      {
+        "label": "Visual Studio Dark (No Syntax Highlighting)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/VS-Dark-color-theme.json"
+      },
+      {
+        "label": "Visual Studio Light (No Syntax Highlighting)",
+        "uiTheme": "vs",
+        "path": "./themes/VS-Light-color-theme.json"
       }
     ]
   }
