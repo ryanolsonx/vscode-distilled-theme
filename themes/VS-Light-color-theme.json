@@ -1,12 +1,53 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "type": "light",
-  "colors": {},
+  "colors": {
+    "editor.lineHighlightBackground": "#fff",
+    "editor.lineHighlightBorder": "#fff",
+    "editor.foreground": "#000",
+    "editorBracketHighlight.foreground1": "#333",
+    "editorBracketHighlight.foreground2": "#333",
+    "editorBracketHighlight.foreground3": "#333",
+    "editorIndentGuide.activeBackground1": "#ffffff00",
+    "editorIndentGuide.activeBackground2": "#ffffff00",
+    "editorIndentGuide.activeBackground3": "#ffffff00",
+    "editorIndentGuide.background1": "#ffffff00"
+  },
   "tokenColors": [
     {
-      "scope": "comment",
+      "scope": ["markup.heading", "punctuation.definition.comment", "comment"],
       "settings": {
-        "foreground": "#008000"
+        "foreground": "#337fd0"
+      }
+    },
+    {
+      "scope": "invalid",
+      "settings": {
+        "foreground": "#F44747"
+      }
+    },
+    {
+      "scope": "token.info-token",
+      "settings": {
+        "foreground": "#6796E6"
+      }
+    },
+    {
+      "scope": "token.warn-token",
+      "settings": {
+        "foreground": "#CD9731"
+      }
+    },
+    {
+      "scope": "token.error-token",
+      "settings": {
+        "foreground": "#F44747"
+      }
+    },
+    {
+      "scope": "token.debug-token",
+      "settings": {
+        "foreground": "#B267E6"
       }
     }
   ]
