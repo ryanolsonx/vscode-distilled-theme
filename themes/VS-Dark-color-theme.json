@@ -1,12 +1,52 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "type": "dark",
-  "colors": {},
+  "colors": {
+    "editor.lineHighlightBackground": "#1e1e1e",
+    "editor.lineHighlightBorder": "#1e1e1e",
+    "editorBracketHighlight.foreground1": "#bbbbbb",
+    "editorBracketHighlight.foreground2": "#bbbbbb",
+    "editorBracketHighlight.foreground3": "#bbbbbb",
+    "editorIndentGuide.activeBackground1": "#1e1e1e00",
+    "editorIndentGuide.activeBackground2": "#1e1e1e00",
+    "editorIndentGuide.activeBackground3": "#1e1e1e00",
+    "editorIndentGuide.background1": "#1e1e1e00"
+  },
   "tokenColors": [
     {
-      "scope": "comment",
+      "scope": ["markup.heading", "punctuation.definition.comment", "comment"],
       "settings": {
-        "foreground": "#6A9955"
+        "foreground": "#71ADDE"
+      }
+    },
+    {
+      "scope": "invalid",
+      "settings": {
+        "foreground": "#F44747"
+      }
+    },
+    {
+      "scope": "token.info-token",
+      "settings": {
+        "foreground": "#6796E6"
+      }
+    },
+    {
+      "scope": "token.warn-token",
+      "settings": {
+        "foreground": "#CD9731"
+      }
+    },
+    {
+      "scope": "token.error-token",
+      "settings": {
+        "foreground": "#F44747"
+      }
+    },
+    {
+      "scope": "token.debug-token",
+      "settings": {
+        "foreground": "#B267E6"
       }
     }
   ]
