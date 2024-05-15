@@ -5,7 +5,7 @@
   "publisher": "ryanolsonx",
   "repository": "https://github.com/ryanolsonx/vscode-distilled-theme",
   "license": "MIT",
-  "version": "0.12.1",
+  "version": "0.13.0",
   "engines": {
     "vscode": "^1.54.0"
   },
@@ -74,6 +74,11 @@
         "label": "Visual Studio Light (No Syntax Highlighting)",
         "uiTheme": "vs",
         "path": "./themes/VS-Light-color-theme.json"
+      },
+      {
+        "label": "Lime Ricky",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Limericky-color-theme.json"
       }
     ]
   }
