@@ -5,7 +5,7 @@
   "publisher": "ryanolsonx",
   "repository": "https://github.com/ryanolsonx/vscode-distilled-theme",
   "license": "MIT",
-  "version": "0.11.4",
+  "version": "0.12.0",
   "engines": {
     "vscode": "^1.54.0"
   },
@@ -24,6 +24,11 @@
         "label": "Fogbell",
         "uiTheme": "vs-dark",
         "path": "./themes/Fogbell-color-theme.json"
+      },
+      {
+        "label": "Hacker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hacker-color-theme.json"
       },
       {
         "label": "Free Solo",
