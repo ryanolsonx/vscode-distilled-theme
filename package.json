@@ -5,7 +5,7 @@
   "publisher": "ryanolsonx",
   "repository": "https://github.com/ryanolsonx/vscode-distilled-theme",
   "license": "MIT",
-  "version": "0.13.0",
+  "version": "0.14.0",
   "engines": {
     "vscode": "^1.54.0"
   },
@@ -20,6 +20,11 @@
   ],
   "contributes": {
     "themes": [
+      {
+        "label": "Syntax Off",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Syntax-off-color-theme.json"
+      },
       {
         "label": "Fogbell",
         "uiTheme": "vs-dark",

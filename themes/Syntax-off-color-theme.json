@@ -1,0 +1,26 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "type": "dark",
+  "colors": {
+    "editor.foreground": "#ffffff",
+    "editor.background": "#000000",
+    "editor.lineHighlightBackground": "#000000",
+    "editor.lineHighlightBorder": "#000000",
+    "editorBracketHighlight.foreground1": "#bbbbbb",
+    "editorBracketHighlight.foreground2": "#bbbbbb",
+    "editorBracketHighlight.foreground3": "#bbbbbb",
+    "editorIndentGuide.activeBackground1": "#00000000",
+    "editorIndentGuide.activeBackground2": "#00000000",
+    "editorIndentGuide.activeBackground3": "#00000000",
+    "editorIndentGuide.background1": "#00000000",
+    "statusBar.background": "#444"
+  },
+  "tokenColors": [
+    {
+      "scope": "invalid",
+      "settings": {
+        "foreground": "#F44747"
+      }
+    }
+  ]
+}
