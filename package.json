@@ -5,7 +5,7 @@
   "publisher": "ryanolsonx",
   "repository": "https://github.com/ryanolsonx/vscode-distilled-theme",
   "license": "MIT",
-  "version": "0.14.0",
+  "version": "0.15.0",
   "engines": {
     "vscode": "^1.54.0"
   },
@@ -24,6 +24,11 @@
         "label": "Syntax Off",
         "uiTheme": "vs-dark",
         "path": "./themes/Syntax-off-color-theme.json"
+      },
+      {
+        "label": "Solarized Lights Off",
+        "uiTheme": "vs",
+        "path": "./themes/Solarized-lights-off-color-theme.json"
       },
       {
         "label": "Fogbell",
