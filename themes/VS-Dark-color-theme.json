@@ -42,12 +42,6 @@
       "settings": {
         "foreground": "#F44747"
       }
-    },
-    {
-      "scope": "token.debug-token",
-      "settings": {
-        "foreground": "#B267E6"
-      }
     }
   ]
 }
