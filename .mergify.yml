@@ -1,0 +1,35 @@
+queue_rules:
+  - name: default
+    merge_method: squash
+    commit_message_template: |
+    {{ title }} (#{{ number }})
+
+    {{ body }}
+
+    {% for user in approved_reviews_by %}
+    Approved-By: {{user}}
+    {% endfor %}
+    update_method: rebase
+    queue_conditions:
+      - base=main
+      - -conflict
+
+pull_request_rules:
+  - name: Automatic merge on approval
+    conditions:
+      - base=main
+      - label=automerge
+    actions:
+      queue:
+        method: squash
+        commit_message_template: |
+        {{ title }} (#{{ number }})
+
+        {{ body }}
+
+        {% for user in approved_reviews_by %}
+        Approved-By: {{user}}
+        {% endfor %}
+        update_method: rebase
+        update_bot_account: '{{ author }}'
+        name: default
