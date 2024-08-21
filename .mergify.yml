@@ -9,6 +9,8 @@ queue_rules:
       {% for user in approved_reviews_by %}
       Approved-By: {{user}}
       {% endfor %}
+
+      Merged from {{ head-repo-full-name }}
     update_method: rebase
     update_bot_account: '{{ author }}'
     queue_conditions:
