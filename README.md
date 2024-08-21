@@ -41,6 +41,6 @@ A minimal pink theme. Strings and comments are highlighted.
 
 !["Screenshot"](https://github.com/ryanolsonx/vscode-distilled-theme/raw/main/screenshotacme.png)
 
-# License
+## License
 
 MIT
