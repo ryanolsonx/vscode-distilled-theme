@@ -10,6 +10,7 @@ queue_rules:
       Approved-By: {{user}}
       {% endfor %}
     update_method: rebase
+    update_bot_account: '{{ author }}'
     queue_conditions:
       - base=main
       - -conflict
@@ -21,15 +22,4 @@ pull_request_rules:
       - label=automerge
     actions:
       queue:
-        merge_method: squash
-        commit_message_template: |
-          {{ title }} (#{{ number }})
-
-          {{ body }}
-
-          {% for user in approved_reviews_by %}
-          Approved-By: {{user}}
-          {% endfor %}
-        update_method: rebase
-        update_bot_account: '{{ author }}'
         name: default
