@@ -21,7 +21,7 @@ pull_request_rules:
       - label=automerge
     actions:
       queue:
-        method: squash
+        merge_method: squash
         commit_message_template: |
           {{ title }} (#{{ number }})
 
