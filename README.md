@@ -1,6 +1,6 @@
 # No Syntax Highlighting for Visual Studio Code
 
-A collection of themes that give little to no syntax highlighting.
+A collection of themes that give little to no syntax highlighting. It's nice. Like, really nice.
 
 ## Free Solo
 
