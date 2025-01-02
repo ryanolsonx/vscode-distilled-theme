@@ -1,8 +1,8 @@
 queue_rules:
   - name: default
-    merge_method: merge
+    merge_method: squash
     update_method: rebase
-    update_bot_account: '{{ author }}'
+    update_bot_account: "{{ author }}"
     queue_conditions:
       - base=main
       - -conflict
